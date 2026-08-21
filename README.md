@@ -1,4 +1,4 @@
-# Art Store Management System
+# COLOR SPECTRUM
 
 A console-based C++ application for an art store that provides user and admin functionalities for managing art supplies, stock, and customer services.
 
