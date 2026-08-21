@@ -1,6 +1,6 @@
-# COLOR SPECTRUM
+# Color Spectrum
 
-A console-based C++ application for an art store that provides user and admin functionalities for managing art supplies, stock, and customer services.
+A console-based art store management system that provides user and admin functionalities for managing art supplies, stock, and customer services.
 
 ## Features
 
@@ -33,8 +33,8 @@ A console-based C++ application for an art store that provides user and admin fu
 ## Project Structure
 
 ```
-Art-Store-Management/
-├── art_store.cpp            # Complete source code
+Color-Spectrum/
+├── color_spectrum.cpp       # Complete source code
 ├── admin.txt                # Admin credentials storage
 ├── credentials.txt          # User credentials storage
 └── README.md
@@ -45,13 +45,13 @@ Art-Store-Management/
 ### MinGW (g++)
 
 ```bash
-g++ art_store.cpp -o art_store.exe
+g++ color_spectrum.cpp -o color_spectrum.exe
 ```
 
 ### Visual Studio (cl)
 
 ```bash
-cl art_store.cpp
+cl color_spectrum.cpp
 ```
 
 ## Authentication
